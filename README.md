@@ -1,2 +1,5 @@
 # website-flow
-exercice
+Ma liste de pizza:
+-Marguarita
+-Bolognaise
+-Reine
